@@ -1,0 +1,9 @@
+nav {font-family: Ruibic;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    padding: 0.8rem 0;
+    margin-left: 1rem;
+    color: #99BFF7;
+    border-bottom: 2px solid cyan;
+    width: 20%;
+}
